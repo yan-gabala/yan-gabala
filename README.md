@@ -9,6 +9,8 @@ My name is Serhii and am a Python developer.
 
 [Docker](https://camo.githubusercontent.com/ea09d29428d8534fe7fb2814bf4535cadea128995ed99cad32e4848de95311d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d726564)
 
+[Nginx](https://camo.githubusercontent.com/bd90ead0da16271dfcfaa91efa86054eaf3c0369d69262b40263bb48d73d8688/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e67696e782d726564)
+
 
 <!--
 **yan-gabala/yan-gabala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
