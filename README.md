@@ -5,6 +5,8 @@ My name is Serhii and am a Python developer.
 
 [SQL](https://camo.githubusercontent.com/11107057e5097572d33f0464f697a5e64b7fa1297bfb50d460a67b287d9b6563/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2d626c7565)
 
+[Django](https://camo.githubusercontent.com/874468677789837533557cccb969d71483de48f4cbc938f62cab1fd066e70e3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446a616e676f2d677265656e)
+
 
 <!--
 **yan-gabala/yan-gabala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
