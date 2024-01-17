@@ -1,5 +1,6 @@
 ### Hi there 👋
 My name is Serhii and am a Python developer.
+[python](https://camo.githubusercontent.com/15c7228a1485ff88ae566579e910b0f6b3b425296d003e9ffa2755b121264c47/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f505954484f4e2d626c7565)
 <!--
 **yan-gabala/yan-gabala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
