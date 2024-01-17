@@ -1,5 +1,5 @@
 ### Hi there 👋
-# My name is Serhii and am a Python developer.
+My name is Serhii and am a Python developer.
 <!--
 **yan-gabala/yan-gabala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
