@@ -1,8 +1,8 @@
 ### Hi there 👋
 My name is Serhii and am a Python developer.
 
-[python](https://camo.githubusercontent.com/15c7228a1485ff88ae566579e910b0f6b3b425296d003e9ffa2755b121264c47/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f505954484f4e2d626c7565)
-[SQL](https://camo.githubusercontent.com/11107057e5097572d33f0464f697a5e64b7fa1297bfb50d460a67b287d9b6563/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2d626c7565)
+![](https://img.shields.io/badge/PYTHON-green)
+
 
 [Django](https://camo.githubusercontent.com/874468677789837533557cccb969d71483de48f4cbc938f62cab1fd066e70e3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446a616e676f2d677265656e)
 
@@ -12,6 +12,9 @@ My name is Serhii and am a Python developer.
 
 [Linux](https://camo.githubusercontent.com/fc0d8681811c6cfd29cde7f87acbf3eb59fecc191906a5865347282dbeaa58d1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d726564)
 
+<a href="https://github.com/yan-gabala">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yan-gabala&show_icons=true&theme=ambient_gradient&hide_title=true" />
+</a>
 
 <!--
 **yan-gabala/yan-gabala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
