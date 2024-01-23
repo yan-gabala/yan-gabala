@@ -9,6 +9,7 @@ I'm a Python developer. Today is better than yesterday.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-gabala&layout=compact&theme=tokyonight" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=yan-gabala)
 
 <!--
 **yan-gabala/yan-gabala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
