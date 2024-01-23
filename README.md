@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a Python developer. Today is better than yesterday.
 
-![](https://img.shields.io/badge/PYTHON-green)  ![](https://img.shields.io/badge/DJANGO-green) ~~ ![](https://img.shields.io/badge/DOCKER-blue)
+![](https://img.shields.io/badge/PYTHON-green)  ![](https://img.shields.io/badge/DJANGO-green) ![](https://img.shields.io/badge/DOCKER-blue) ![](https://img.shields.io/badge/LINUX-orange)
 
 
 [Django](https://camo.githubusercontent.com/874468677789837533557cccb969d71483de48f4cbc938f62cab1fd066e70e3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446a616e676f2d677265656e)
